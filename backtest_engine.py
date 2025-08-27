@@ -1,5 +1,5 @@
 """
-PICKAI Backtesting Framework
+yes-no.fun Backtesting Framework
 High-performance historical simulation engine
 """
 
